@@ -1,22 +1,38 @@
-# flourish-portfolio.github.io
+# Data Scientist - Data Analyst
 
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+> [!Technical Skills]
+>  Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebook, Excel,  GIT & Version Control, Model Development, Power BI, Microsoft Offices, HTML & CSS  
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- BSc, Computer Science | National Open University of Nigeria (_Nov 2019 - Dec 2023_)								       		
+- National Diploma, Computer Science & Statistics	|  Federal College of Animal Health And Production Technology   Jos, Nigeria  (_Nov 2014 - Nov 2016_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Science Mentor @ Nhub Nigeria (_January 2022 - Present_)**
+
+- Collaborated with the first tech hub in Northern Nigeria, focusing on empowering young Africans with problem solving skills essential for innovative startups addressing real-life challenges. 
+- Incorporated transformative 3mtt(NITDA - National Information Technology Development Agency) Data Science Program at nHub Foundation, fostering talent and advancing Nigeria's digital economy goals.
+- Proficiently diagnosed and resolved technical issues using Python, showcasing troubleshooting abilities.
+- Utilized advanced visualization and analytics tools to process datasets effectively, enhancing data-driven decision-making capabilities.
+- Worked closely with senior data scientists to resolve intricate problems and acquire new skills. 
+- Mentored and guided 40-50 students in tech skills, sharing knowledge and fostering their growth. 
+- Participated in the Microsoft Hackathon on Agro-tech, collaborating within a team to conduct research, perform analysis, and develop solutions using diverse tools and techniques.
+
+**Research & Market Analyst @ LinuxJobber, Inc (_June 2023 - December 2023_)**
+
+- Developed strategic plans to conduct surveys on company newsletters, gathering valuable feedback for improved content and engagement.  
+- Analyzed survey results to extract meaningful insights, enabling data-driven decision-making.
+- Actively reached out to potential customers to establish collaborative relationships and expand the company's network.
+- Entered potential customer data into Excel spreadsheets to maintain organized records and support targeted marketing efforts.  
+- Initiated email campaigns and conducted phone outreach to potential customers, effectively marketing the company's products and services. 
+- Crafted engaging and informative newsletters to effectively communicate company updates, promotions, and industry insights to subscribers. 
+- Arrange and coordinate online meetings, further strengthening our connections with both existing and potential clients
+
+**Data Science Intern @ Qwasar Silicon Valley (_March 2023 - August 2023_)**
+- Conducted data collection, processing, and analysis for focusing on end-to-end data management, data structures, algorithms, and business decision-making. 
+- Gained hands-on experience through project-based learning. 
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
