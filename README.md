@@ -1,6 +1,6 @@
 # Data Scientist - Data Analyst
 
-> [!Technical Skills]
+> [!TECHNICAL SKILLS]
 >  Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebook, Excel,  GIT & Version Control, Model Development, Power BI, Microsoft Offices, HTML & CSS  
 
 ## Education
