@@ -38,16 +38,16 @@
 ### Credit Card Fraud Detection Model Development
 [Code Repo](https://github.com/TimTemi/Credit-Card-Fraud-Detection-Model-Development)
 
-Developed machine learning model to detect fraudulent credit card transactions using a dataset of credit card transactions with a significant class imbalance issue, where fraudulent transactions constituted only 0.172% of all transactions. Various techniques, including RandomUnderSampler and SMOTE, were employed to address this challenge. Multiple machine learning models such as RandomForest, DecisionTree, and XGBoost were evaluated, with hyperparameters tuned using Bayesian Optimization to enhance model performance. The implementation of undersampling and oversampling techniques led to a notable improvement in fraud detection accuracy, as evidenced by achieving an AUPRC score of X%, representing a Y% enhancement over the baseline model, while also effectively reducing false positives and false negatives in the model predictions.
+Developed machine learning model to detect fraudulent credit card transactions using a dataset of credit card transactions with a significant class imbalance issue, where fraudulent transactions constituted only **0.172%** of all transactions. Various techniques, including **RandomUnderSampler** and **SMOTE**, were employed to address this challenge. Multiple machine learning models such as RandomForest, DecisionTree, and XGBoost were evaluated, with **hyperparameters tuned** using **Bayesian Optimization** to enhance model performance. The implementation of **undersampling** and **oversampling** techniques led to a notable improvement in fraud detection accuracy, as evidenced by achieving an AUPRC score of X%, representing a Y% enhancement over the baseline model, while also effectively reducing false positives and false negatives in the model predictions.
 
 ![fraud_detection](/assets/img/fraud_detection.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Automated Music Genre Classification
+[Project Link](https://github.com/TimTemi/Automated-Music-Genre-Classification)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Built a **Python** model to automate the classification of various musical genres from audio segments. This involved analyzing extensive datasets to pinpoint relevant features for classification and then employing machine learning techniques such as **multi-variable** linear regression to enhance genre prediction accuracy. The project culminated in a detailed presentation elucidating the methods, assumptions, and implications of the classification process. Python, along with TensorFlow and scikit-learn, was utilized for both application development and model implementation.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Music](/assets/img/music_class.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
