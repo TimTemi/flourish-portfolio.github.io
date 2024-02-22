@@ -42,12 +42,22 @@ Developed machine learning model to detect fraudulent credit card transactions u
 
 ![fraud_detection](/assets/img/fraud_detection.png)
 
+
 ### Automated Music Genre Classification
 [Project Link](https://github.com/TimTemi/Automated-Music-Genre-Classification)
 
 Built a **Python** model to automate the classification of various musical genres from audio segments. This involved analyzing extensive datasets to pinpoint relevant features for classification and then employing machine learning techniques such as **multi-variable** linear regression to enhance genre prediction accuracy. The project culminated in a detailed presentation elucidating the methods, assumptions, and implications of the classification process. Python, along with TensorFlow and scikit-learn, was utilized for both application development and model implementation.
 
 ![Music](/assets/img/music_class.png)
+
+
+### Wine Recommendation Model
+[Project Link](https://github.com/TimTemi/Wine-Recommendation---Vivino)
+
+In this data analysis project, I ensured the reliability of data by rectifying missing values and standardizing formats, thereby guaranteeing integrity and consistency. Through thorough Exploratory Data Analysis (EDA), I investigated customer behavior, preferences, and market trends, extracting valuable insights. Employing visualization tools such as seaborn and plotly. I implemented machine learning techniques, notably employing the Nearest Neighbors algorithm to construct a recommendation system based on similarity. By fine-tuning these models for optimal performance aligned with user preferences, I demonstrated the tangible impact of the recommendation system on enhancing customer satisfaction and driving positive business outcomes.
+
+![Wine](/assets/img/wine.jfif)
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
