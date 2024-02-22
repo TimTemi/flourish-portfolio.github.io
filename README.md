@@ -38,7 +38,7 @@
 ### Credit Card Fraud Detection Model Development
 [Code Repo](https://github.com/TimTemi/Credit-Card-Fraud-Detection-Model-Development)
 
-Developed machine learning model to detect fraudulent credit card transactions using a dataset of credit card transactions with a significant class imbalance issue, where fraudulent transactions constituted only **0.172%** of all transactions. Various techniques, including **RandomUnderSampler** and **SMOTE**, were employed to address this challenge. Multiple machine learning models such as RandomForest, DecisionTree, and XGBoost were evaluated, with **hyperparameters tuned** using **Bayesian Optimization** to enhance model performance. The implementation of **undersampling** and **oversampling** techniques led to a notable improvement in fraud detection accuracy, as evidenced by achieving an AUPRC score of X%, representing a Y% enhancement over the baseline model, while also effectively reducing false positives and false negatives in the model predictions.
+Developed machine learning model to detect fraudulent credit card transactions using a dataset of credit card transactions with a significant class imbalance issue, where fraudulent transactions constituted only **0.172%** of all transactions. Various techniques, including **RandomUnderSampler** and **SMOTE**, were employed to address this challenge. Multiple machine learning models such as RandomForest, DecisionTree, and XGBoost were evaluated, with **hyperparameters tuned** using **Bayesian Optimization** to enhance model performance. The implementation of **undersampling** and **oversampling** techniques led to a notable improvement in fraud detection accuracy, as evidenced by achieving an AUPRC score of X%, representing a Y% enhancement over the **baseline model**, while also effectively reducing false positives and false negatives in the model predictions.
 
 ![fraud_detection](/assets/img/fraud_detection.png)
 
@@ -46,7 +46,7 @@ Developed machine learning model to detect fraudulent credit card transactions u
 ### Automated Music Genre Classification
 [Project Link](https://github.com/TimTemi/Automated-Music-Genre-Classification)
 
-Built a **Python** model to automate the classification of various musical genres from audio segments. This involved analyzing extensive datasets to pinpoint relevant features for classification and then employing machine learning techniques such as **multi-variable** linear regression to enhance genre prediction accuracy. The project culminated in a detailed presentation elucidating the methods, assumptions, and implications of the classification process. Python, along with TensorFlow and scikit-learn, was utilized for both application development and model implementation.
+Built a **Python** model to automate the classification of various musical genres from audio segments. This involved analyzing extensive datasets to pinpoint relevant features for classification and then employing machine learning techniques such as **multi-variable** linear regression to enhance genre prediction accuracy. The project culminated in a detailed presentation elucidating the methods, assumptions, and implications of the classification process. Python, along with **TensorFlow and scikit-learn**, was utilized for both application development and model implementation.
 
 ![Music](/assets/img/music_class.png)
 
@@ -54,20 +54,25 @@ Built a **Python** model to automate the classification of various musical genre
 ### Wine Recommendation Model
 [Project Link](https://github.com/TimTemi/Wine-Recommendation---Vivino)
 
-In this data analysis project, I ensured the reliability of data by rectifying missing values and standardizing formats, thereby guaranteeing integrity and consistency. Through thorough Exploratory Data Analysis (EDA), I investigated customer behavior, preferences, and market trends, extracting valuable insights. Employing visualization tools such as seaborn and plotly. I implemented machine learning techniques, notably employing the Nearest Neighbors algorithm to construct a recommendation system based on similarity. By fine-tuning these models for optimal performance aligned with user preferences, I demonstrated the tangible impact of the recommendation system on enhancing customer satisfaction and driving positive business outcomes.
+In this **data analysis** project, I ensured the reliability of data by rectifying missing values and standardizing formats, thereby guaranteeing integrity and consistency. Through thorough **Exploratory Data Analysis (EDA)**, I investigated **customer behavior, preferences, and market trends, extracting valuable insights.** Employing visualization tools such as seaborn and plotly. I implemented machine learning techniques, notably employing the **Nearest Neighbors algorithm** to construct a **recommendation system** based on similarity. By **fine-tuning** these models for optimal performance aligned with user preferences, and demonstrated the tangible impact of the recommendation system on enhancing customer satisfaction and driving positive business outcomes.
 
 ![Wine](/assets/img/wine.jfif)
 
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### Predictive Conversion Model for Bank
+[Project Link](https://github.com/TimTemi/Predicting-Conversion-Model-for-Bank)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Developed **machine learning model** aimed at predicting the likelihood of deposit customers accepting personal loan offers, with the goal of boosting marketing conversion rates. This involved applying a **multi-variable linear regression model** to a vast and intricate dataset, which underwent stages of data collection, cleaning, exploration, and visualization. Through comprehensive analyses of customer demographics, encompassing factors such as age, income, and other pertinent variables, I gained insights into their influence on loan acceptance. Various machine learning algorithms, including **Logistic Regression, Naive Bayes, K-Nearest Neighbors, Decision Trees, Random Forests, and Support Vector Machines**, were implemented and fine-tuned to optimize performance, with **GridSearchCV** utilized for **hyperparameter tuning**. 
+
+![Bank](/assets/img/bank.jfif)
+
+
+## Talks & Lectures
+
+- Guest Speaker: Data Science Expedition: Industry Trends, Jobs Exploration & Data Privacy - Data Expo MeetUp @ Nhub Nigeria,  September 2023
+
+## Articles
+- [Recommendation System](https://medium.com/@flourish229/recommendation-system-vivino-61ba7efb1fdb)
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
