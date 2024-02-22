@@ -35,12 +35,12 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Credit Card Fraud Detection Model Development
+[Code Repo](https://github.com/TimTemi/Credit-Card-Fraud-Detection-Model-Development)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed machine learning model to detect fraudulent credit card transactions using a dataset of credit card transactions with a significant class imbalance issue, where fraudulent transactions constituted only 0.172% of all transactions. Various techniques, including RandomUnderSampler and SMOTE, were employed to address this challenge. Multiple machine learning models such as RandomForest, DecisionTree, and XGBoost were evaluated, with hyperparameters tuned using Bayesian Optimization to enhance model performance. The implementation of undersampling and oversampling techniques led to a notable improvement in fraud detection accuracy, as evidenced by achieving an AUPRC score of X%, representing a Y% enhancement over the baseline model, while also effectively reducing false positives and false negatives in the model predictions.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Card fraud detectiob](/assets/img/fraud detection.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
