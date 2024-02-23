@@ -1,11 +1,15 @@
 # Data Scientist - Data Analyst
 
 > TECHNICAL SKILLS
->  Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebook, Excel,  GIT & Version Control, Model Development, Power BI, Microsoft Offices, HTML & CSS  
+>  Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebook, Excel,  GIT & Version Control, Model Development, Power BI, Microsoft Offices, HTML & CSS
+
+---
 
 ## Education
 - BSc, Computer Science | National Open University of Nigeria (_Nov 2019 - Dec 2023_)								       		
-- National Diploma, Computer Science & Statistics	|  Federal College of Animal Health And Production Technology   Jos, Nigeria  (_Nov 2014 - Nov 2016_)	 			        		
+- National Diploma, Computer Science & Statistics	|  Federal College of Animal Health And Production Technology   Jos, Nigeria  (_Nov 2014 - Nov 2016_)
+
+---            		
 
 ## Work Experience
 
@@ -33,6 +37,7 @@
 - Conducted data collection, processing, and analysis for focusing on end-to-end data management, data structures, algorithms, and business decision-making. 
 - Gained hands-on experience through project-based learning. 
 
+---
 
 ## Projects
 ### Credit Card Fraud Detection Model Development
@@ -73,29 +78,33 @@ Analyzed the Google Play Store dataset to inform strategic decisions for app dev
 
 ![app](/assets/img/app.jpeg)
 
+---
 
 ## Talks & Lectures
 
 - Guest Speaker: Data Science Expedition: Industry Trends, Jobs Exploration & Data Privacy - Data Expo MeetUp @ Nhub Nigeria,  September 2023
+
+---
   
 ## Internships
 
+---
 -
 ## Lisense & Certifications
 
-![qwasar](/assets/img/qwasar.png)
-[x] **Qwasar Silicon Valley**
+![qwasar](/assets/img/qwa.png)
+**Qwasar Silicon Valley**
 - ASSOCIATE DATA SCIENTIST - [Certificate](https://upskill.us.qwasar.io/certificates/MTM1Mi1va2VfdC1qdWwtMjAyMS0zMC0zMjgy)
 
 ![dataq](/assets/img/dq.png)
-[x] **Data Quest**
+**Data Quest**
 - [Certificates](https://www.linkedin.com/in/flourish-oke-a18668224/details/certifications/)
 
+---
 
 ## Articles
 - [Recommendation System](https://medium.com/@flourish229/recommendation-system-vivino-61ba7efb1fdb)
 
-
-
-
 - [Data Science Blog](https://medium.com/@shawhin)
+
+[x]
