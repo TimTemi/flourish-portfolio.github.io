@@ -64,7 +64,7 @@ In this **data analysis** project, I ensured the reliability of data by rectifyi
 
 Developed **machine learning model** aimed at predicting the likelihood of deposit customers accepting personal loan offers, with the goal of boosting marketing conversion rates. This involved applying a **multi-variable linear regression model** to a vast and intricate dataset, which underwent stages of data collection, cleaning, exploration, and visualization. Through comprehensive analyses of customer demographics, encompassing factors such as age, income, and other pertinent variables, I gained insights into their influence on loan acceptance. Various machine learning algorithms, including **Logistic Regression, Naive Bayes, K-Nearest Neighbors, Decision Trees, Random Forests, and Support Vector Machines**, were implemented and fine-tuned to optimize performance, with **GridSearchCV** utilized for **hyperparameter tuning**. 
 
-![Bank](/assets/img/bank.jfif)
+![Bank](/assets/img/banks.jfif)
 
 
 ## Talks & Lectures
