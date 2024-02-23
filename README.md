@@ -1,6 +1,6 @@
 # Data Scientist - Data Analyst
 
-> [!TECHNICAL SKILLS]
+> TECHNICAL SKILLS
 >  Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebook, Excel,  GIT & Version Control, Model Development, Power BI, Microsoft Offices, HTML & CSS  
 
 ## Education
@@ -38,7 +38,7 @@
 ### Credit Card Fraud Detection Model Development
 [Code Repo](https://github.com/TimTemi/Credit-Card-Fraud-Detection-Model-Development)
 
-Developed machine learning model to detect fraudulent credit card transactions using a dataset of credit card transactions with a significant class imbalance issue, where fraudulent transactions constituted only **0.172%** of all transactions. Various techniques, including **RandomUnderSampler** and **SMOTE**, were employed to address this challenge. Multiple machine learning models such as RandomForest, DecisionTree, and XGBoost were evaluated, with **hyperparameters tuned** using **Bayesian Optimization** to enhance model performance. The implementation of **undersampling** and **oversampling** techniques led to a notable improvement in fraud detection accuracy, as evidenced by achieving an AUPRC score of X%, representing a Y% enhancement over the **baseline model**, while also effectively reducing false positives and false negatives in the model predictions.
+Developed machine learning model to detect fraudulent credit card transactions using a dataset of credit card transactions with a significant class imbalance issue, where fraudulent transactions constituted only `**0.172%**` of all transactions. Various techniques, including **RandomUnderSampler** and **SMOTE**, were employed to address this challenge. Multiple machine learning models such as RandomForest, DecisionTree, and XGBoost were evaluated, with **hyperparameters tuned** using **Bayesian Optimization** to enhance model performance. The implementation of **undersampling** and **oversampling** techniques led to a notable improvement in fraud detection accuracy, as evidenced by achieving an AUPRC score of X%, representing a Y% enhancement over the **baseline model**, while also effectively reducing false positives and false negatives in the model predictions.
 
 ![fraud_detection](/assets/img/fraud_detection.png)
 
@@ -66,14 +66,29 @@ Developed **machine learning model** aimed at predicting the likelihood of depos
 
 ![Bank](/assets/img/banks.jfif)
 
+### Market Analysis & Optimization for Mobile App
+[Project Link](https://github.com/TimTemi/Market-Analysis-and-Optimization-for-Mobile-App/tree/master)
+
+Analyzed the Google Play Store dataset to inform strategic decisions for app development. Through cautious **data cleaning and statistical analysis**, I uncovered valuable insights into **market trends and user preferences**. Visualizations using Matplotlib, Seaborn, and Plotly highlighted key findings, guiding decision-making on pricing and market positioning. 
+
+![app](/assets/img/app.jpeg)
+
 
 ## Talks & Lectures
 
 - Guest Speaker: Data Science Expedition: Industry Trends, Jobs Exploration & Data Privacy - Data Expo MeetUp @ Nhub Nigeria,  September 2023
+  
+## Internships
 
-## Certifications
-**Qwasar Silicon Valley**
+-
+## Lisense & Certifications
+
+[x]**Qwasar Silicon Valley**
 - ASSOCIATE DATA SCIENTIST - [Certificate](https://upskill.us.qwasar.io/certificates/MTM1Mi1va2VfdC1qdWwtMjAyMS0zMC0zMjgy)
+
+[x]**Data Quest**
+- [Certificates](https://www.linkedin.com/in/flourish-oke-a18668224/details/certifications/)
+
 
 ## Articles
 - [Recommendation System](https://medium.com/@flourish229/recommendation-system-vivino-61ba7efb1fdb)
