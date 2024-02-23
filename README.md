@@ -88,17 +88,36 @@ Analyzed the Google Play Store dataset to inform strategic decisions for app dev
   
 ## Internships
 
+### Outsource Global 
+
+- [x] Contributed to preseason data analysis and diverse data science tasks, gaining hands-on experience across various data-related domains.
+- [x] Participated actively in peer reviews, offering valuable feedback and insights on colleagues' projects, fostering team collaboration and improving project quality.
+- [x] Demonstrated expertise in building and refining data models, showcasing a strong understanding of data analysis techniques and methodologies.
+- [x] Developed familiarity with the software development cycle, understanding how data science integrates into the larger software development process.
+- [x] Proven ability to manage complex datasets, including data collection, storage, extraction, and visualization, highlighting proficiency in end-to-end data management.
+
+### TechUp Africa - DataQuest
+
+- [x] Developed comprehensive proficiency in vital data science skills, including Python programming, data manipulation, visualization, machine learning, and statistical analysis.
+- [x] Engaged in hands-on learning experiences, solving interactive coding challenges and completing real-world projects, which enhanced my ability to apply theoretical knowledge to practical scenarios effectively.
+- [x] Mastered the utilization of popular data science libraries and tools such as Pandas, NumPy, Matplotlib, and Scikit-learn, through practical application and guided learning.
+- [x] Gained insight into real-world data science workflows, learning how to clean, analyze, and visualize data efficiently, which prepared me for roles in industry.
+- [x] Received personalized feedback and guidance from expert instructors throughout the course, enabling me to track my progress and address challenges promptly.
+
+
 ---
--
+
 ## Lisense & Certifications
 
 ![qwasar](/assets/img/qwa.png)
+
 **Qwasar Silicon Valley**
-- ASSOCIATE DATA SCIENTIST - [Certificate](https://upskill.us.qwasar.io/certificates/MTM1Mi1va2VfdC1qdWwtMjAyMS0zMC0zMjgy)
+- [x] ASSOCIATE DATA SCIENTIST - [Certificate](https://upskill.us.qwasar.io/certificates/MTM1Mi1va2VfdC1qdWwtMjAyMS0zMC0zMjgy)
 
 ![dataq](/assets/img/dq.png)
+
 **Data Quest**
-- [Certificates](https://www.linkedin.com/in/flourish-oke-a18668224/details/certifications/)
+- [x] [Certificates](https://www.linkedin.com/in/flourish-oke-a18668224/details/certifications/)
 
 ---
 
@@ -107,4 +126,4 @@ Analyzed the Google Play Store dataset to inform strategic decisions for app dev
 
 - [Data Science Blog](https://medium.com/@shawhin)
 
-[x]
+
