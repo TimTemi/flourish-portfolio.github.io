@@ -41,7 +41,7 @@
 
 ## Projects
 ### Credit Card Fraud Detection Model Development
-[Code Repo](https://github.com/TimTemi/Credit-Card-Fraud-Detection-Model-Development)
+[Code Repo](https://github.com/TimTemi/Credit-Card-Fraud-Detection-Model-)
 
 Developed machine learning model to detect fraudulent credit card transactions using a dataset of credit card transactions with a significant class imbalance issue, where fraudulent transactions constituted only **0.172%** of all transactions. Various techniques, including **RandomUnderSampler** and **SMOTE**, were employed to address this challenge. Multiple machine learning models such as RandomForest, DecisionTree, and XGBoost were evaluated, with **hyperparameters tuned** using **Bayesian Optimization** to enhance model performance. The implementation of **undersampling** and **oversampling** techniques led to a notable improvement in fraud detection accuracy, as evidenced by achieving an AUPRC score of X%, representing a Y% enhancement over the **baseline model**, while also effectively reducing false positives and false negatives in the model predictions.
 
