@@ -1,7 +1,7 @@
 # Data Scientist - Data Analyst
 
-> TECHNICAL SKILLS
->  Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebook, Excel,  GIT & Version Control, Model Development, Power BI, Microsoft Offices, HTML & CSS
+> TECHNICAL SKILLS : Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebook, Excel,  GIT & Version Control, Model Development, Power BI, Microsoft Offices, HTML & CSS, Deep Learning Techniques, Reinforcement Learning, Deep Q-Network (DQN), OpenAI Gym, Data Preprocessing, Exploratory Data Analysis (EDA), Customer Behavior Analysis, Market Trends Analysis, Statistical Analysis, Market Trends Identification, User Preferences Analysis, Data Visualization (Matplotlib, Seaborn, Plotly)
+
 
 ---
 
@@ -33,15 +33,29 @@
 - Crafted engaging and informative newsletters to effectively communicate company updates, promotions, and industry insights to subscribers. 
 - Arrange and coordinate online meetings, further strengthening our connections with both existing and potential clients
 
-**Data Science Intern @ Qwasar Silicon Valley (_March 2023 - August 2023_)**
+**Data Science Intern @ Outsource Global - (Qwasar Silicon Valley) (_March 2023 - August 2023_)**
+
 - Conducted data collection, processing, and analysis for focusing on end-to-end data management, data structures, algorithms, and business decision-making. 
-- Gained hands-on experience through project-based learning. 
+- Gained hands-on experience through project-based learning.
+- Contributed to preseason data analysis and diverse data science tasks, gaining hands-on experience across various data-related domains.
+- Participated actively in peer reviews, offering valuable feedback and insights on colleagues' projects, fostering team collaboration and improving project quality.
+- Demonstrated expertise in building and refining data models, showcasing a strong understanding of data analysis techniques and methodologies.
+- Developed familiarity with the software development cycle, understanding how data science integrates into the larger software development process.
+- Proven ability to manage complex datasets, including data collection, storage, extraction, and visualization, highlighting proficiency in end-to-end data management.
+
+**Data Science Intern @ TechUp Africa - (DataQuest) (_February 2023 - July 2023_)**
+
+- Developed comprehensive proficiency in vital data science skills, including Python programming, data manipulation, visualization, machine learning, and statistical analysis.
+- Engaged in hands-on learning experiences, solving interactive coding challenges and completing real-world projects, which enhanced my ability to apply theoretical knowledge to practical scenarios effectively.
+- Mastered the utilization of popular data science libraries and tools such as Pandas, NumPy, Matplotlib, and Scikit-learn, through practical application and guided learning.
+- Gained insight into real-world data science workflows, learning how to clean, analyze, and visualize data efficiently, which prepared me for roles in industry.
+- Received personalized feedback and guidance from expert instructors throughout the course, enabling me to track my progress and address challenges promptly.
 
 ---
 
 ## Projects
 
-###
+### AI Gamer with Deep Learning Models
 [Project Link](https://github.com/TimTemi/AI-Gamer)
 
 Developed an **AI system** capable of playing Atari video games using **deep learning techniques** such as **reinforcement learning and the Deep Q-Network**. Implemented three models to solve different **Atari games: Cart Pole, Space Invaders, and Pacman**. Utilized **OpenAI Gym** environment and **Stable Baselines3** library for model training and evaluation. 
@@ -90,27 +104,6 @@ Analyzed the Google Play Store dataset to inform strategic decisions for app dev
 ## Talks & Lectures
 
 - Guest Speaker: Data Science Expedition: Industry Trends, Jobs Exploration & Data Privacy - Data Expo MeetUp @ Nhub Nigeria,  September 2023
-
----
-  
-## Internships
-
-### Outsource Global 
-
-- [x] Contributed to preseason data analysis and diverse data science tasks, gaining hands-on experience across various data-related domains.
-- [x] Participated actively in peer reviews, offering valuable feedback and insights on colleagues' projects, fostering team collaboration and improving project quality.
-- [x] Demonstrated expertise in building and refining data models, showcasing a strong understanding of data analysis techniques and methodologies.
-- [x] Developed familiarity with the software development cycle, understanding how data science integrates into the larger software development process.
-- [x] Proven ability to manage complex datasets, including data collection, storage, extraction, and visualization, highlighting proficiency in end-to-end data management.
-
-### TechUp Africa - DataQuest
-
-- [x] Developed comprehensive proficiency in vital data science skills, including Python programming, data manipulation, visualization, machine learning, and statistical analysis.
-- [x] Engaged in hands-on learning experiences, solving interactive coding challenges and completing real-world projects, which enhanced my ability to apply theoretical knowledge to practical scenarios effectively.
-- [x] Mastered the utilization of popular data science libraries and tools such as Pandas, NumPy, Matplotlib, and Scikit-learn, through practical application and guided learning.
-- [x] Gained insight into real-world data science workflows, learning how to clean, analyze, and visualize data efficiently, which prepared me for roles in industry.
-- [x] Received personalized feedback and guidance from expert instructors throughout the course, enabling me to track my progress and address challenges promptly.
-
 
 ---
 
