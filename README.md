@@ -40,6 +40,13 @@
 ---
 
 ## Projects
+
+###
+[Project Link](https://github.com/TimTemi/AI-Gamer)
+
+Developed an **AI system** capable of playing Atari video games using **deep learning techniques** such as **reinforcement learning and the Deep Q-Network**. Implemented three models to solve different **Atari games: Cart Pole, Space Invaders, and Pacman**. Utilized **OpenAI Gym** environment and **Stable Baselines3** library for model training and evaluation. 
+![AI](/assets/img/AI.png)
+
 ### Credit Card Fraud Detection Model Development
 [Code Repo](https://github.com/TimTemi/Credit-Card-Fraud-Detection-Model-)
 
@@ -123,7 +130,5 @@ Analyzed the Google Play Store dataset to inform strategic decisions for app dev
 
 ## Articles
 - [Recommendation System](https://medium.com/@flourish229/recommendation-system-vivino-61ba7efb1fdb)
-
-- [Data Science Blog](https://medium.com/@shawhin)
 
 
