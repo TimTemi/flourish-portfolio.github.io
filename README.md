@@ -99,6 +99,14 @@ Analyzed the Google Play Store dataset to inform strategic decisions for app dev
 
 ![app](/assets/img/app.jpeg)
 
+### My Allocine
+[Project Link](https://github.com/TimTemi/My-Allocine)
+
+I explored the practical realm of **SQL (Structured Query Language)** for efficient management of **relational databases**. Within this project, I leveraged SQL to execute a spectrum of database operations, ranging from **modifying table structures to adding, updating, and deleting data, as well as retrieving specific subsets of information**.
+Navigating through a complex database architecture revolving around the movie industry, crafting advanced SQL queries to extract valuable insights. These queries allowed me to pinpoint precise data points, such as movie release years and reviewer ratings, contributing to informed decision-making.
+
+![sql](/assets/img/sql.png)
+
 ---
 
 ## Talks & Lectures
