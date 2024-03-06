@@ -1,6 +1,6 @@
 # Data Scientist - Data Analyst
 
-> TECHNICAL SKILLS : Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebook, Excel,  GIT & Version Control, Model Development, Power BI, Microsoft Offices, HTML & CSS, Deep Learning Techniques, Reinforcement Learning, Deep Q-Network (DQN), OpenAI Gym, Data Preprocessing, Exploratory Data Analysis (EDA), Customer Behavior Analysis, Market Trends Analysis, Statistical Analysis, Market Trends Identification, User Preferences Analysis, Data Visualization (Matplotlib, Seaborn, Plotly)
+TECHNICAL SKILLS : Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebook, Excel,  GIT & Version Control, Model Development, Power BI, Microsoft Offices, HTML & CSS, Deep Learning Techniques, Reinforcement Learning, Deep Q-Network (DQN), OpenAI Gym, Data Preprocessing, Exploratory Data Analysis (EDA), Customer Behavior Analysis, Market Trends Analysis, Statistical Analysis, Market Trends Identification, User Preferences Analysis, Data Visualization (Matplotlib, Seaborn, Plotly)
 
 
 ---
