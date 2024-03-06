@@ -6,6 +6,7 @@ TECHNICAL SKILLS : Scikit - Learn, TensorFlow, SQL Lite,  Python, Jupyter Notebo
 ---
 
 ## Education
+
 - BSc, Computer Science | National Open University of Nigeria (_Nov 2019 - Dec 2023_)								       		
 - National Diploma, Computer Science & Statistics	|  Federal College of Animal Health And Production Technology   Jos, Nigeria  (_Nov 2014 - Nov 2016_)
 
